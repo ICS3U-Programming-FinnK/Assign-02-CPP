@@ -19,6 +19,6 @@ int main() {
 
     // terminal displays the surface area and volume of the sphere to the user
     std::cout << "\n";
-    std::cout << "the Surface Area is = " << surface_Area << " cm" << std::endl;
-    std::cout << "the Volume is = " << volume << " cm" << std::endl;
+    std::cout << "the Surface Area is = " << surface_Area << " cm^2" << std::endl;
+    std::cout << "the Volume is = " << volume << " cm^3" << std::endl;
 }
